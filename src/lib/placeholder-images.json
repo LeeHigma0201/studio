@@ -1,3 +1,70 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Tesla to J1772 Adapter",
+      "imageUrl": "https://images.unsplash.com/photo-1618052442385-ecaa3ad0b1e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhZGFwdGVyJTIwY2FibGV8ZW58MHx8fHwxNzcwNDkxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "adapter cable"
+    },
+    {
+      "id": "2",
+      "description": "Lectron CCS to Tesla Adapter",
+      "imageUrl": "https://images.unsplash.com/photo-1763161786687-43d0c9babdf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhZGFwdGVyJTIwY2FibGV8ZW58MHx8fHwxNzcwNDkxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "adapter cable"
+    },
+    {
+      "id": "3",
+      "description": "CHAdeMO to Tesla Adapter",
+      "imageUrl": "https://images.unsplash.com/photo-1744973248681-c4a388484b8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhZGFwdGVyJTIwY2FibGV8ZW58MHx8fHwxNzcwNDkxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "adapter cable"
+    },
+    {
+      "id": "4",
+      "description": "Electrify America Supercenter street view",
+      "imageUrl": "https://images.unsplash.com/photo-1590938076771-dfe17af4d484?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwYXJraW5nJTIwbG90fGVufDB8fHx8MTc3MDQ4OTU1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "parking lot"
+    },
+    {
+      "id": "5",
+      "description": "EVgo Fast Charging street view",
+      "imageUrl": "https://images.unsplash.com/photo-1739664352805-fb0b9c44e2d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3RyZWV0JTIwc2lkZSUyMHBhcmtpbmd8ZW58MHx8fHwxNzcwNDkxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "street side parking"
+    },
+    {
+      "id": "6",
+      "description": "Tesla Supercharger street view",
+      "imageUrl": "https://images.unsplash.com/photo-1740479229129-cb480231396f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxnYXJhZ2UlMjBpbnRlcmlvcnxlbnwwfHx8fDE3NzA0Nzc4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garage interior"
+    },
+    {
+      "id": "7",
+      "description": "Public Library L2 Charger street view",
+      "imageUrl": "https://images.unsplash.com/photo-1532217635-b45271b1aab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwYXJraW5nJTIwZ2FyYWdlfGVufDB8fHx8MTc3MDQwNjUzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "parking garage"
+    },
+    {
+      "id": "vehicle-1",
+      "description": "Tesla Model Y",
+      "imageUrl": "https://images.unsplash.com/photo-1628573044443-a41b85b6f630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3aGl0ZSUyMGNhcnxlbnwwfHx8fDE3NzA0NTE3ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white car"
+    },
+    {
+      "id": "vehicle-2",
+      "description": "Ford Mustang Mach-E",
+      "imageUrl": "https://images.unsplash.com/photo-1564435147551-fcd1d3d773f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyZWQlMjBjYXJ8ZW58MHx8fHwxNzcwNDcyNTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red car"
+    },
+    {
+      "id": "vehicle-3",
+      "description": "Hyundai IONIQ 5",
+      "imageUrl": "https://images.unsplash.com/photo-1692025488227-1fe60cc55196?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzaWx2ZXIlMjBjYXJ8ZW58MHx8fHwxNzcwNDA4MDYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silver car"
+    },
+    {
+      "id": "vehicle-4",
+      "description": "Nissan Leaf",
+      "imageUrl": "https://images.unsplash.com/photo-1629421865882-d64347f3961c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxibHVlJTIwY2FyfGVufDB8fHx8MTc3MDQ4ODM2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue car"
+    }
+  ]
 }
